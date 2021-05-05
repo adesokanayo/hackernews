@@ -1,6 +1,7 @@
 # hackernews
 
-Hacknews API written in Golang with  GraphQL endpoint exposed.
+Hacknews API written in Golang
 
+-Exposed GraphQL API for clients to call.
 
 
